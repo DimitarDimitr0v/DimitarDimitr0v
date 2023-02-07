@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning Python, Django, JS, HTML & CSS
 - 👯 I’m looking to collaborate on a actual project
 - ⚡ Fun fact: I'm training Kyokushin and I love Spanish
-- 
+
+---
+
 ### Connect with me:
 [<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" width="26px" style="padding-right:50px">]
 
