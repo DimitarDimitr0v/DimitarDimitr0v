@@ -32,8 +32,8 @@ align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="nore
 <summary>:zap: GitHub Stats</summary>
 
 <div>
-  <img width="50%" align="left" alt="Dimitar's GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DimitarDimitr0v&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img display:flex width="40%" align="left" alt="Dimitar's GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DimitarDimitr0v&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
   
-  <img align="right" width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DimitarDimitr0v&layout=compact&bg_color=09131B&hide_border=true" />
+  <img display:flex align="right" width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DimitarDimitr0v&layout=compact&bg_color=09131B&hide_border=true" />
 </div>
   
