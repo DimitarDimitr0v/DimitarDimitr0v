@@ -1,4 +1,4 @@
-### <h3> Hi there, I'm Dimitar 👋 </h3>
+### <h1> Hi there, I'm Dimitar 👋 </h1>
 - 📚 I’m studying sy Software University
 - 🌱 I’m currently learning Python, Django, JS, HTML & CSS
 - 👯 I’m looking to collaborate on a actual project
