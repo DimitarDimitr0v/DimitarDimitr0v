@@ -1,7 +1,7 @@
 ### <h1> Hi there, I'm Dimitar 👋 </h1>
-- 📚 I’m studying sy Software University
-- 🌱 I’m currently learning Python, Django, JS, HTML & CSS
-- 👯 I’m looking to collaborate on a actual project
+- 📚 I’m studying in Software University
+- 🌱 I’m currently learning Python, C & C++, Flask
+- 👯 I’m looking to collaborate on projects
 - ⚡ Fun fact: I'm orange belt in Kyokushin and I love Spanish
 
 ---
