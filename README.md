@@ -1,11 +1,11 @@
 ### <h1> Hi there, I'm Dimitar 👋 </h1>
 - 📚 I’m studying in Software University
-- 🌱 I’m currently learning Python, C & C++, Flask
+- 🌱 I’m currently learning Python and JS
 - 👯 I’m looking to collaborate on projects
 - ⚡ Fun fact: I'm orange belt in Kyokushin and I love Spanish
 
 ---
-
+z
 ### Connect with me:
 
 [<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" width="26px" >](https://www.instagram.com/_mitaka04/)
