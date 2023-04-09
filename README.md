@@ -8,11 +8,10 @@
 
 ### Connect with me:
 
-<div style="padding-left: 30px;">
-  <a href="https://www.instagram.com/_mitaka04/"> <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" width="26px" </a>
-  <a href="https://www.facebook.com/profile.php?id=100004329915600"> <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/facebook/facebook-plain.svg" alt="facebook" width="26px"> </a>
-  <a href="https://www.linkedin.com/in/dimitar-dimitrov-10b602222/"> <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" width="26px"> </a>
-</div>
+<a style="padding-left: 30px;" href="https://www.instagram.com/_mitaka04/"> <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" width="26px" </a>
+<a style="padding-left: 30px;" href="https://www.facebook.com/profile.php?id=100004329915600"> <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/facebook/facebook-plain.svg" alt="facebook" width="26px"></a>
+  
+<a style="padding-left: 30px;" href="https://www.linkedin.com/in/dimitar-dimitrov-10b602222/"> <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" width="26px"> </a>
     
     
 ---
