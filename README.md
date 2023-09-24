@@ -1,8 +1,8 @@
 ### <h1> Hi there, I'm Dimitar 👋 </h1>
-- 📚 I’m studying in Software University
-- 🌱 I’m currently learning Python and JS
+- 📚 I’m studying in Plovdiv University
+- 🌱 I’m currently learning C# and Algorithms
 - 👯 I’m looking to collaborate on projects
-- ⚡ Fun fact: I'm orange belt in Kyokushin and I love Spanish
+- ⚡ Fun fact: I'm red belt in Kyokushin and I love Spanish
 
 ---
 
