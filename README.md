@@ -1,6 +1,6 @@
 ### <h1> Hi there, I'm Dimitar 👋 </h1>
 - 📚 I’m studying in Plovdiv University
-- 🌱 I’m currently learning C# and Algorithms
+- 🌱 I’m currently learning C# and Web Programming
 - 👯 I’m looking to collaborate on projects
 - ⚡ Fun fact: I'm red belt in Kyokushin and I love Spanish
 
